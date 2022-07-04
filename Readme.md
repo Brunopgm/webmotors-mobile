@@ -63,6 +63,11 @@
     - %ANDROID_HOME%/tools/lib
     - %ANDROID_HOME%/tools/bin
 
+### Desinstale e instale o EventMachine 
+> - Se necessário ou se receber após a execução o erro "Unable to load the EventMachine C" desinstale e instale o EventMachine com os comandos abaixo:
+> Desinstalar - gem uninstall eventmachine  (selecione todas as opções)
+> Instalação - gem install eventmachine --platform ruby
+
 *******
 
 <div id='execucao'/>
