@@ -68,7 +68,7 @@
 <div id='execucao'/>
 
 ## :file_folder: Como executar a aplicação
-> - Vá para o repositório https://github.com/Brunopgm/webmotors.git e dê um clone no projeto
+> - Vá para o repositório https://github.com/Brunopgm/webmotors-mobile e dê um clone no projeto
 
 > - Mude a rota da variável app do arquivo "caps/android.txt" para a rota do apk do seu projeto
 
